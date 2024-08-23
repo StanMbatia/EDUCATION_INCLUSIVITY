@@ -47,10 +47,10 @@
 
 .elementor-169 .elementor-element.elementor-element-7581f130 .elementor-heading-title {
   color: #1559DA;
-  font-family: "Palanquin Dark", Sans-serif;
+  font-family: "Tahoma";
   font-size: 5rem;
   font-weight: 900;
-  text-transform: uppercase;
+  text-transform: capitalize;
   line-height: 0.9em;
   letter-spacing: 4px;
 }
@@ -61,7 +61,7 @@
 
 .elementor-169 .elementor-element.elementor-element-52406b00 .elementor-heading-title {
   color: #ffffff;
-  font-family: "Palanquin", Sans-serif;
+  font-family: "Tahoma";
   font-size: 2rem;
   font-weight: 400;
   text-transform: capitalize;
@@ -137,10 +137,10 @@
 
 .elementor-169 .elementor-element.elementor-element-66539631 .elementor-heading-title {
   color: #ffffff;
-  font-family: "Palanquin Dark", Sans-serif;
-  font-size: 1.5rem;
+  font-family: "Tahoma";
+  font-size: 1.8rem;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-style: normal;
   text-decoration: none;
   line-height: 1.1em;
@@ -172,8 +172,8 @@
 
 .elementor-169 .elementor-element.elementor-element-6a28fffc {
   color: #ffffff;
-  font-family: "Palanquin", Sans-serif;
-  font-size: 1em;
+  font-family: "Ahorini";
+  font-size: 1.1em;
   font-weight: 400;
   text-transform: none;
   font-style: normal;
@@ -242,10 +242,10 @@
 
 .elementor-169 .elementor-element.elementor-element-5064c6d7 .elementor-heading-title {
   color: #ffffff;
-  font-family: "Palanquin Dark", Sans-serif;
-  font-size: 1.5rem;
+  font-family: "Tahoma";
+  font-size: 1.8rem;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-style: normal;
   text-decoration: none;
   line-height: 1.1em;
@@ -277,8 +277,8 @@
 
 .elementor-169 .elementor-element.elementor-element-9294586 {
   color: #ffffff;
-  font-family: "Palanquin", Sans-serif;
-  font-size: 1em;
+  font-family: "Ahorini";
+  font-size: 1.1em;
   font-weight: 400;
   text-transform: none;
   font-style: normal;
@@ -347,10 +347,10 @@
 
 .elementor-169 .elementor-element.elementor-element-49c07a61 .elementor-heading-title {
   color: #ffffff;
-  font-family: "Palanquin Dark", Sans-serif;
-  font-size: 1.5rem;
+  font-family: "Tahoma";
+  font-size: 1.8rem;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform:capitalize;
   font-style: normal;
   text-decoration: none;
   line-height: 1.1em;
@@ -382,8 +382,8 @@
 
 .elementor-169 .elementor-element.elementor-element-77e87008 {
   color: #ffffff;
-  font-family: "Palanquin", Sans-serif;
-  font-size: 1em;
+  font-family: "Ahorini";
+  font-size: 1.1em;
   font-weight: 400;
   text-transform: none;
   font-style: normal;
@@ -470,10 +470,10 @@
 
 .elementor-169 .elementor-element.elementor-element-40d3f2bf .elementor-heading-title {
   color: #0762d9;
-  font-family: "Palanquin Dark", Sans-serif;
+  font-family: "Tahoma";
   font-size: 3rem;
   font-weight: 900;
-  text-transform: uppercase;
+  text-transform: capitalize;
   line-height: 0.9em;
   letter-spacing: 2px;
 }
@@ -509,7 +509,7 @@
   columns: 1;
   column-gap: 0px;
   color: #000000;
-  font-family: "Palanquin", Sans-serif;
+  font-family: "Aharoni";
   font-size: 1em;
   font-weight: 400;
   text-transform: none;
@@ -1952,7 +1952,7 @@
 
 .elementor-169 .elementor-element.elementor-element-76b292e8 .elementor-heading-title {
   color: #0762d9;
-  font-family: "Palanquin Dark", Sans-serif;
+  font-family: "Tahoma";
   font-size: 3rem;
   font-weight: 900;
   text-transform: uppercase;
@@ -1985,7 +1985,7 @@
 
 .elementor-169 .elementor-element.elementor-element-1aac1a0e .elementor-heading-title {
   color: #979cb2;
-  font-family: "Palanquin", Sans-serif;
+  font-family: "Tahoma";
   font-size: 1em;
   font-weight: 500;
   text-transform: uppercase;
@@ -2084,7 +2084,7 @@
 
 .elementor-169 .elementor-element.elementor-element-ac640f4:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-169 .elementor-element.elementor-element-ac640f4>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-image: url("../../2024/01/5.jpg");
+  background-image: url("../../2024/01/18.jpg");
   background-size: cover;
 }
 
@@ -2337,7 +2337,7 @@
 
 .elementor-169 .elementor-element.elementor-element-8572e4e .elementor-heading-title {
   color: #0762d9;
-  font-family: "Palanquin Dark", Sans-serif;
+  font-family: "Tahoma";
   font-size: 1.5rem;
   font-weight: 900;
   text-transform: uppercase;
@@ -2357,7 +2357,7 @@
 
 .elementor-169 .elementor-element.elementor-element-40b59a5c {
   color: #979cb2;
-  font-family: "Palanquin", Sans-serif;
+  font-family: "Aharoni";
   font-size: 0.9em;
   font-weight: 400;
   text-transform: none;
@@ -2417,7 +2417,7 @@
 
 .elementor-169 .elementor-element.elementor-element-9dca5f4:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-169 .elementor-element.elementor-element-9dca5f4>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-image: url("../../2024/01/8.jpg");
+  background-image: url("../../2024/01/14.jpg");
   background-size: cover;
 }
 
@@ -2503,7 +2503,7 @@
 
 .elementor-169 .elementor-element.elementor-element-47e8b93b .elementor-heading-title {
   color: #0762d9;
-  font-family: "Palanquin Dark", Sans-serif;
+  font-family: "Tahoma";
   font-size: 1.5rem;
   font-weight: 900;
   text-transform: uppercase;
@@ -2523,7 +2523,7 @@
 
 .elementor-169 .elementor-element.elementor-element-44299491 {
   color: #979cb2;
-  font-family: "Palanquin", Sans-serif;
+  font-family: "Aharoni";
   font-size: 0.9em;
   font-weight: 400;
   text-transform: none;
@@ -3051,7 +3051,7 @@
 
 .elementor-169 .elementor-element.elementor-element-619c6242 .elementor-heading-title {
   color: #ffffff;
-  font-family: "Palanquin Dark", Sans-serif;
+  font-family: "Tahoma";
   font-size: 3rem;
   font-weight: 900;
   text-transform: uppercase;
@@ -3091,7 +3091,7 @@
 
 .elementor-169 .elementor-element.elementor-element-28a8434 .elementor-heading-title {
   color: #ffffff;
-  font-family: "Palanquin", Sans-serif;
+  font-family: "Tahoma";
   font-size: 1.7em;
   font-weight: 400;
   text-transform: capitalize;
